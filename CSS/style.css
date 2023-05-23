@@ -25,7 +25,7 @@ h1{
 }
 
 h2{
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 600;
 }
 
@@ -63,8 +63,13 @@ nav{
     border-radius: 5px;
 }
 
+.Table{
+    margin-bottom: 20px;
+
+}
+
 .check-list{
-    width: 835px;
+    width: 820px;
     margin: auto ;
     padding: 25px 0 25px 0;
 }
@@ -84,8 +89,36 @@ span{
     border: 1px solid rgb(0, 163, 0);
     border-radius: 50%;
 }
+
+.check_x{
+    padding: 0 5px;
+    display: inline-block;
+    background-color: white;
+    color:red;
+    border: 1px solid red;
+    border-radius: 50%;
+}
 .description{
     font-weight: 400;
     display: inline-block;
+    padding: 0 0 15px 0;
 }
 
+.blue{
+    background-color: #47ADF1;
+}
+.pink{
+    background-color: #D863A1;
+}
+.green{
+    background-color: #B0C926;
+}
+.aqua{
+    background-color: #64C0A9;
+}
+.violet{
+    background-color: #9C72E4;
+}
+.orange{
+    background-color: #F29E33;
+}
