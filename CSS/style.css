@@ -80,6 +80,7 @@ span{
     color: white;
     padding: 3px 10px;
     border-radius: 10px;
+    display: inline-block;
 }
 .check_v{
     padding: 0 5px;
